@@ -17,7 +17,7 @@
 
     "homepageURL": null,
     "downloadURL": "https://github.com/USGS-WiM/nwis-chart-proxies/archive/master.zip",
-    "disclaimerURL": "https://github.com/USGS-WiM/nwis-chart-proxies/blob/master/LICENSE.md",
+    "disclaimerURL": "https://github.com/USGS-WiM/nwis-chart-proxies/blob/master/DISCLAIMER.md",
     "repositoryUrl": "https://github.com/USGS-WiM/nwis-chart-proxies",
     "vcs": "git",
 
