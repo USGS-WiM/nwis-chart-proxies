@@ -3,7 +3,7 @@
     "name": "nwis-chart-proxies",
     "organization": "U.S. Geological Survey",
     "description": "Proxy scripts used to retrieve NWIS graphs",
-    "version": null
+    "version": null,
     "status": "development",
     "permissions": {
       "usageType": "openSource",
